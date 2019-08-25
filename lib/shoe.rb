@@ -7,7 +7,6 @@ class Shoe
   
   def cobble
     puts "Your shoe is as good as new!"
-    attr_writer :condition = "new"
   end
 end
   # Make your shoe class here!
